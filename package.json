@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-typed-real-float-ctors",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Real-valued floating-point typed array constructors.",
   "license": "Apache-2.0",
   "author": {
@@ -37,13 +37,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-float32": "^0.0.6",
-    "@stdlib/array-float64": "^0.0.6"
+    "@stdlib/array-float32": "^0.1.0",
+    "@stdlib/array-float64": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/array-typed-real-float-dtypes": "^0.0.1",
-    "@stdlib/assert-is-function": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
+    "@stdlib/array-typed-real-float-dtypes": "^0.1.0",
+    "@stdlib/assert-is-function": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
