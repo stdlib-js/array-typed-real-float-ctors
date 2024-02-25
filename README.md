@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-ctors@esm/index.mjs';
+import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-ctors@v0.2.1-esm/index.mjs';
 ```
 
 #### ctors( dtype )
@@ -103,7 +103,7 @@ var ctor = ctors( 'float' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-dtypes@esm/index.mjs';
-import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-ctors@esm/index.mjs';
+import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-ctors@v0.2.1-esm/index.mjs';
 
 var DTYPES = dtypes();
 var ctor;
